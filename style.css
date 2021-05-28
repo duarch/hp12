@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(180, 180, 180);
+}
+
+.button {
+    font-style: initial;
+    font-size: 16px;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.screen {
+    background: yellow;
+}
